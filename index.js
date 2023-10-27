@@ -24,3 +24,4 @@ function generarNumeros() {
   // Generar y render el reintegro.
   reintegro.innerHTML = `<div class="numero flex"><p>${Math.floor(Math.random() * 9) + 1}</p></div>`
 }
+
